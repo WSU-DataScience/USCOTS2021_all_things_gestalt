@@ -5,7 +5,7 @@
 
 * Github: https://github.com/WSU-DataScience/USCOTS2021_all_things_gestalt
 * Github (short): https://bit.ly/3j5qoIZ
-* Slide link:
+* Slide link: https://github.com/WSU-DataScience/USCOTS2021_all_things_gestalt/raw/main/all_things_gestalt.pptx
 
 
 ### Outline
